@@ -6,7 +6,7 @@ This project aims to develop a Convolutional Neural Network (CNN) model for dete
 # Dataset
 This repository focuses on weather classification using a curated dataset. The dataset contains a collection of weather-related conditions.
 
-The dataset is organized to facilitate the training and evaluation of machine learning models for weather classification tasks. With labeled data indicating different weather conditions (such as fog, dew, rainy, etc.), this dataset serves as a valuable resource for building accurate classifiers.
+The dataset contains labeled 6862 images of different types of weather. The dataset is organized to facilitate the training and evaluation of machine learning models for weather classification tasks. With labeled data indicating different weather conditions (such as fog, dew, rainy, etc.), this dataset serves as a valuable resource for building accurate classifiers.
 
 <b>[Link to the dataset](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset/data)</b>:
 
