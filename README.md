@@ -8,7 +8,10 @@ This repository focuses on weather classification using a curated dataset. The d
 
 The dataset contains labeled 6862 images of different types of weather. The dataset is organized to facilitate the training and evaluation of machine learning models for weather classification tasks. With labeled data indicating different weather conditions (such as fog, dew, rainy, etc.), this dataset serves as a valuable resource for building accurate classifiers.
 
-<b>[Link to the dataset](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset/data)</b>:
+## Glimpse of the Dataset
+![download](https://github.com/Shreyas1018/Weather-Detection/assets/46682248/c6958fcb-b469-48be-8210-a9dbefbee268)
+
+<b>[click here for dataset](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset/data)</b>
 
 # Requirements
 Ensure you have the following dependencies installed:
